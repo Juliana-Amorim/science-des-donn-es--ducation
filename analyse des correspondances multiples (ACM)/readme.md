@@ -47,6 +47,5 @@ L’objectif est de mobiliser une analyse des correspondances multiples (ACM) af
 
 > Cette analyse constitue une étape exploratoire. Une approche complémentaire (modèles multivariés, régression, méthodes de machine learning) serait nécessaire pour approfondir l’identification des facteurs explicatifs.
 
-## Comment exécuter
-1. Ouvrir le notebook carte_perceptuelle_analyses_de_correspondance_multiple.ipynb sur Jupyter Notebook ou Google Colab
-2. Exécuter les cellules dans l’ordre pour reproduire l’analyse complète (ACM + visualisations)
+**Juliana da Costa Amorim**  
+(MBA Data Science – USP/ESALQ)
