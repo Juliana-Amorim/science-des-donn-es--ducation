@@ -46,6 +46,5 @@ La deuxième partie du projet inclut l'application d'un modèle de régression l
 
 > Pour aller au-delà de cette phase exploratoire et du modèle OLS, il serait nécessaire d’utiliser des modèles multivariés et de contrôler les variables institutionnelles pour identifier correctement les facteurs explicatifs.
 
-## Comment exécuter
-1. Ouvrir le notebook `Clustering k-means.ipynb` sur Google Colab ou localement  
-2. Exécuter les cellules dans l’ordre pour reproduire l’analyse complète (clustering + OLS)
+**Juliana da Costa Amorim**  
+(MBA Data Science – USP/ESALQ)
