@@ -128,20 +128,6 @@ Il ouvre vers des approches plus adaptées :
 
 ---
 
-## Technologies utilisées
-
-- Python (statsmodels, scipy)  
-- Google Colab  
-
-**Méthodes :**
-- OLS  
-- Test de Shapiro-Francia  
-- Transformation de Box-Cox  
-- GLM (en cours)  
-- Modélisation multiniveau (en cours)  
-
----
-
 ## Auteur
 
 **Juliana da Costa Amorim**  
