@@ -2,7 +2,7 @@
 
 ## Objectif du projet
 
-Ce projet vise à analyser les déterminants du taux de réussite au baccalauréat dans les lycées publics en France, à partir d’un modèle de régression.
+Ce projet vise à analyser les déterminants du taux de réussite au baccalauréat dans les lycées publics en France, à partir d’un modèle de régression OLS.
 
 L’objectif initial est d’expliquer la variable :
 
@@ -58,7 +58,16 @@ Une transformation de Box-Cox a été appliquée à la variable dépendante afin
 
 **Résultat :**
 - la normalité des résidus n’est toujours pas vérifiée (nouveau test de Shapiro-Francia)  
+- effet d’agrégation et paradoxe de Simpson
 
+Les résultats globaux peuvent masquer des dynamiques internes aux sous-groupes (régions, académies, profils socio-économiques).
+
+Il est donc possible d’observer un paradoxe de Simpson, où :
+
+une tendance globale est observée dans une direction
+mais s’inverse ou disparaît lorsqu’on analyse les sous-groupes séparément
+
+Cela souligne l’importance d’intégrer la structure hiérarchique des données dans la modélisation.
 ---
 
 À la suite de ces résultats, plusieurs pistes méthodologiques pourraient être envisagées :
